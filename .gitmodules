@@ -1,3 +1,0 @@
-[submodule "path/to/submodule"]
-	path = path/to/submodule
-	url = https://github.com/surendrapm/JavaScript.git
