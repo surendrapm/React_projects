@@ -1,7 +1,7 @@
 function EditTodo(){
  return(
         <div className= "EditTodo">
-              Edit todo
+              Edit todo List
         </div>
     )
 }
